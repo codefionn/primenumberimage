@@ -89,9 +89,9 @@ class ProgramMain
     public static final void main(String[] args)
     {
         System.out.println("PrimeNumberImage  Copyright (C) 2018 Fionn Langhans");
+        System.out.println("License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>");
+        System.out.println("This is free software: you are free to change and redistribute it.");
         System.out.println("This program comes with ABSOLUTELY NO WARRANTY;");
-        System.out.println("This is free software, and you are welcome to redistribute it");
-        System.out.println("under certain conditions;");
         System.out.println();
 
         if (args.length != 4 && args.length != 6) {
