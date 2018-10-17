@@ -1,4 +1,5 @@
-/build
+/bin
+/dist
 *.jar
 *.png
 !/images/*.png

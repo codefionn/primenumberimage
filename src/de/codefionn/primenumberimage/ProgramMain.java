@@ -1,4 +1,4 @@
-package feder.primenumberimage;
+package de.codefionn.primenumberimage;
 
 /*  fionn/primenumberimage/ProgramMain.java: Main file of the program
     Copyright (C) 2018  Fionn Langhans
